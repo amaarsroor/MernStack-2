@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": "../server/",
+    "paths": {
+      "*": ["*"]
+    }
+  },
+  "include": ["../server"]
+}
